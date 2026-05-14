@@ -1,6 +1,3 @@
-# CPRE-5600-Final-Project
-Spring 2026 semester CPRE 5600 course final project repository. Project: TLS Fingerprinting for Malicious vs. Benign Traffic Classification
-
 # TLS Fingerprinting for Malicious vs. Benign Traffic Classification
 
 ## Project Overview
@@ -51,4 +48,4 @@ TLS-Fingerprinting-Malicious-Traffic-Detection/
     └── README.md
 ```
 
-# Datasets used and links to access them are included in the data/README.md file
+Datasets used and links to access them are included in the data/README.md file.
