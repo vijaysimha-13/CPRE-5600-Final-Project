@@ -29,6 +29,7 @@ The project also includes a **synthetic perturbation stress test**, where random
 
 ## Repository Contents
 
+```text
 TLS-Fingerprinting-Malicious-Traffic-Detection/
 │
 ├── README.md
@@ -48,5 +49,6 @@ TLS-Fingerprinting-Malicious-Traffic-Detection/
 │
 └── data/
     └── README.md
+```
 
 # Datasets used and links to access them are included in the data/README.md file
